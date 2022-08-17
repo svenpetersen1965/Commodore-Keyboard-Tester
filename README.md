@@ -12,4 +12,4 @@ It can measure the resistance of every single key, which requires a multimeter a
 
 <img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%201/pictures/2275_-_C64_test.JPG" width="300" alt="Commodore Keyboard Tester">
 
-<img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%201/pictures/2275_-_C64_test.JPG" width="300" alt="Commodore Keyboard Tester">
+<img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%201/pictures/2224_-_Commodore_KB_Tester_Rev1.JPG" width="300" alt="Commodore Keyboard Tester">
