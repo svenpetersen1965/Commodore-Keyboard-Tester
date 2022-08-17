@@ -1,0 +1,9 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"4";"";"BOHR3,5";"BOHR3,5";"DRL1, DRL2, DRL3, DRL4";"";"";
+"2";"";"DJUMPER";"1X03";"JP1, JP2";"";"";
+"1";"";"PINHD-1X2";"1X02";"J5";"";"";
+"2";"1,3/2,0";"1,3/2,0";"1,3/2,0";"TP1, TP2";"Testpunkt";"";
+"2";"1x20/mod";"PINHD-1X20";"1X20";"J1, J2";"";"";
+"1";"C128 KB Header";"C128_KBHEADER";"C128KB_HEADER";"J3";"";"";
+"1";"DSUB25F/VPCB";"DS25F-V-CL";"DS25F-V";"J4";"";"";
+"1";"OPEN_SOURCE_HW";"OPEN_SOURCE_HW";"OPENHW";"U$12";"";"";
