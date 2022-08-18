@@ -24,3 +24,7 @@ Jeff Birt did some great research on this topic, which cou can find here:
 Instead of ammonia, I am using a lye (NaOH) solution and I wrote somethng about it on my website:
 
 <a href="http://tech.guitarsite.de/conductive_rubber.html">Rejuvenating The Conductive Rubber In a (Commodore) Keyboard</a>
+
+After treating the keyboard rubbers, it might make sense to measure their resistance before installing them in the keyboard again. I found Jeff Birt's ficture quite nice for doing so. 
+
+https://github.com/Jeff-Birt/C64_C128_Amiga_Mitsumi_Key_Tester
