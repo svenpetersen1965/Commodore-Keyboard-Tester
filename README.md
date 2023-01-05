@@ -13,8 +13,8 @@ It can measure the resistance of every single key, which requires a multimeter a
 <img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%201/pictures/2275_-_C64_test.JPG" width="300" alt="Commodore Keyboard Tester">
 
 <img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%201/pictures/2224_-_Commodore_KB_Tester_Rev1.JPG" width="300" alt="Commodore Keyboard Tester">
-# 3D printed case
 
+# Case (3D printed)
 <img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/3D-printed_case/Rev.%200/pictures/3341_-_KB_Tester_case.JPG" width="300" alt="Commodore Keyboard Tester">
 
 The 3D printed case offers a better protection of the bottom side and looks a bit nicer, than the stand off solution. It works with all released versions (100mm x
