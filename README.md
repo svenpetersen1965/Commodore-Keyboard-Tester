@@ -20,6 +20,8 @@ It can measure the resistance of every single key, which requires a multimeter a
 The 3D printed case offers a better protection of the bottom side and looks a bit nicer, than the stand off solution. It works with all released versions (100mm x
 70mm PCB). 
 
+Recommended screws are 4 each of C2.9 x 6.5 (self cutting, DIN 7981). The drill diameter is 2.5mm.
+
 # Info about rejuvenation keyboard rubber
 As I said in the documentation, one reason for bad keys is the oil that is sweating from the conductive rubbers over the decades. This can be removed by soaking the rubbers in a mild caustic solution for at least 24hours.
 
