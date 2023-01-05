@@ -13,6 +13,12 @@ It can measure the resistance of every single key, which requires a multimeter a
 <img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%201/pictures/2275_-_C64_test.JPG" width="300" alt="Commodore Keyboard Tester">
 
 <img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%201/pictures/2224_-_Commodore_KB_Tester_Rev1.JPG" width="300" alt="Commodore Keyboard Tester">
+# 3D printed case
+
+<img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/3D-printed_case/Rev.%200/pictures/3341_-_KB_Tester_case.JPG" width="300" alt="Commodore Keyboard Tester">
+
+The 3D printed case offers a better protection of the bottom side and looks a bit nicer, than the stand off solution. It works with all released versions (100mm x
+70mm PCB). 
 
 # Info about rejuvenation keyboard rubber
 As I said in the documentation, one reason for bad keys is the oil that is sweating from the conductive rubbers over the decades. This can be removed by soaking the rubbers in a mild caustic solution for at least 24hours.
