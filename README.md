@@ -26,7 +26,7 @@ In case it is desired to use 2mm lab jacks, a 3mm deeper case (Rev. 2) has been 
 
 # Rev. 2
 Rev. 2 is mainly a nicer looking silkscreen, than Rev. 1. Technically, this version is not any upgrade. 
-<img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%201/pictures/2275_-_C64_test.JPG" width="300" alt="Commodore Keyboard Tester Rev. 2">
+<img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%202/pictures/5032_-_C%3DKB_Tester_v2.JPG" width="300" alt="Commodore Keyboard Tester Rev. 2">
 
 # Info about rejuvenation keyboard rubber
 As I said in the documentation, one reason for bad keys is the oil that is sweating from the conductive rubbers over the decades. This can be removed by soaking the rubbers in a mild caustic solution for at least 24hours.
