@@ -26,6 +26,7 @@ In case it is desired to use 2mm lab jacks, a 3mm deeper case (Rev. 2) has been 
 
 # Rev. 2
 Rev. 2 is mainly a nicer looking silkscreen, than Rev. 1. Technically, this version is not any upgrade. 
+
 <img src="https://github.com/svenpetersen1965/Commodore-Keyboard-Tester/blob/main/Rev.%202/pictures/5032_-_C%3DKB_Tester_v2.JPG" width="300" alt="Commodore Keyboard Tester Rev. 2">
 
 # Info about rejuvenation keyboard rubber
